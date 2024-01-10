@@ -1,7 +1,7 @@
 article {
  padding: 10px;
  margin: 10px;
- background: rgb(255, 255, 255);
+ 
 }
 
 section{
@@ -22,3 +22,7 @@ width: 50px;
 body{
  background-image: url("Images/foto\ universitario.avif");
 }
+
+.section{
+ 
+} 
