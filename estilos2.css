@@ -21,6 +21,8 @@ width: 50px;
 
 body{
  background-image: url("Images/foto\ universitario.avif");
+ background-size: cover;
+ 
 }
 
 .section{
