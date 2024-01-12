@@ -24,7 +24,7 @@ body{
 }
 
 .logo{
- padding-left: 30%;
+ padding-left: 43%;
  margin-top: 1%;
 }
 
@@ -42,7 +42,7 @@ body{
 
 .from1{
  height: 30%;
- width: 10%;
+ width: 30%;
  padding-left:  40%;
 
 
@@ -53,4 +53,7 @@ body{
  width: 40%;
 
 
+}
+
+.from1{
 }
