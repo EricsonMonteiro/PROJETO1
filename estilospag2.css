@@ -1,0 +1,27 @@
+body{
+ margin-left: 3%;
+ margin-right: 3%;
+ background-color: rgb(218, 212, 212);
+ 
+}
+
+.logo2{
+ width: 30%;
+ height: 30%;
+ margin-left: 35%;
+}
+head{
+ background-color: rgb(207, 211, 215);
+}
+
+.form2{
+ background-color: rgb(255, 255, 255);
+ width: 30%;
+}
+
+.for1{
+ background-color: rgb(255, 255, 255);
+}
+label{
+ padding-left: 20px;
+}
