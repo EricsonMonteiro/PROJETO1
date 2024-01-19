@@ -2,6 +2,7 @@ article {
  padding: 10px;
  margin: 10px;
  color: aliceblue;
+ font-size: 150%;
  
 }
 
@@ -51,7 +52,7 @@ body{
  border-radius: 50px;
  position: absolute;
  top: 20%;
- width: 13%;
+ width: 15%;
  margin-top: 10%;
  
  max-width: 90%;
@@ -88,4 +89,18 @@ h4{
   border-radius: 8px;
   background-color:  rgb(59, 125, 179);
   color: white;
+}
+
+
+.botão{
+  font-weight: bold;
+  padding: 10px 43%;
+  margin-top: 27%;
+  border-radius: 8px;
+  background-color:  rgb(59, 125, 179);
+  color: white;
+  padding-right: 65px;
+  text-align: center;
+  text-decoration: none;
+
 }
