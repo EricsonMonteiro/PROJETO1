@@ -50,3 +50,13 @@ body{
 .fa-facebook{
  color: rgb(54, 54, 247);
 }
+
+footer{
+ margin-top: 10%;
+ background-color: #232323;
+height: 200px;
+ color: #bbbbbb;
+ padding: 5% 10%;
+ clear: all;
+ 
+}
